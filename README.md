@@ -27,7 +27,7 @@ It prints out potential successful injections based on changes in content length
 https://github.com/XJOKZVO/Headres
 ```
 
-# Usage:
+# Options:
 ```
  _   _                      _                     
 | | | |   ___    __ _    __| |   ___   _ __   ___ 
@@ -45,4 +45,9 @@ options:
   -m METHODS [METHODS ...], --methods METHODS [METHODS ...]
                         HTTP methods to use for testing (e.g., GET POST)
   -v, --verbose         Enable verbose output
+```
+
+# Usage:
+```
+python Headres.py -u http://example.com -m GET POST -v
 ```

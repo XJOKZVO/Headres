@@ -25,6 +25,9 @@ It prints out potential successful injections based on changes in content length
 # Installation
 ```
 git clone https://github.com/XJOKZVO/Headres.git
+cd Headres
+pip install -r requirements.txt
+python Headres.py
 ```
 
 # Options:

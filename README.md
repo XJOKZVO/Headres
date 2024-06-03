@@ -24,7 +24,7 @@ It prints out potential successful injections based on changes in content length
 
 # Installation
 ```
-https://github.com/XJOKZVO/Headres.git
+git clone https://github.com/XJOKZVO/Headres.git
 ```
 
 # Options:
